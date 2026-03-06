@@ -1,0 +1,5 @@
+{
+  "name": "CareAssist",
+  "description": "An AI-based response suggestion system for hospital staff to manage patient queries efficiently.",
+  "requestFramePermissions": []
+}
